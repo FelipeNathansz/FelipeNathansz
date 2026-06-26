@@ -24,11 +24,6 @@
 
 </div>
 
----
-
-
-
----
 
 <!-- Snake animation -->
 <div align="center">
