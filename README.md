@@ -26,12 +26,7 @@
 
 ---
 
-<!-- Trofeus -->
-<div align="center">
 
-![Trofeus](https://github-profile-trophy.vercel.app/?username=FelipeNathansz&theme=onestar&no-frame=true&row=1&column=6&margin-w=10)
-
-</div>
 
 ---
 
