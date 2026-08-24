@@ -1,49 +1,52 @@
-[[<!-- ========================= -->
-<!--       8-BIT DEV           -->
-<!-- ========================= -->
+<!-- =============================== -->
+<!--        FELIPENATHANSZ DEV       -->
+<!-- =============================== -->
 
-<h2 align="center">👾 Full Stack • Computer Science</h2>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=700&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+BOOT...;%3E+FELIPENATHANSZ.EXE;%3E+FULL+STACK+DEVELOPER;%3E+COMPUTER+SCIENCE;%3E+LOADING+PROJECTS...;%3E+READY_"
-    alt="8 Bit Developer Animation"
-  />
+<h2>👾 FELIPENATHANSZ.EXE</h2>
+
+<p>
+  <b>Full Stack Developer • Computer Science</b>
+</p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=900&center=true&vCenter=true&width=720&height=45&lines=%3E+SYSTEM+BOOT...;%3E+FELIPENATHANSZ.EXE;%3E+FULL+STACK+DEVELOPER;%3E+COMPUTER+SCIENCE;%3E+READY_"
+  alt="8 Bit Developer"
+/>
+
+<br><br>
+
+<!-- =============================== -->
+<!--           ASTEROIDS             -->
+<!-- =============================== -->
+
+<h2>🚀 ASTEROIDS.EXE</h2>
+
+<img
+  width="750"
+  src="https://raw.githubusercontent.com/FelipeNathansz/FelipeNathansz/main/assets/asteroids.svg"
+  alt="Asteroids Animation"
+/>
+
+<p>
+  <code>PLAYER: FELIPENATHANSZ</code>
+  &nbsp; • &nbsp;
+  <code>STATUS: CODING</code>
 </p>
 
 <br>
 
-<!-- ========================= -->
-<!--       ASTEROIDS GAME      -->
-<!-- ========================= -->
+<!-- =============================== -->
+<!--        PROJECT ACTIVITY         -->
+<!-- =============================== -->
 
-<h2 align="center">🚀 ASTEROIDS.EXE</h2>
+<h2>📊 PROJECT ACTIVITY</h2>
 
-<p align="center">
-  <img
-    width="700"
-    src="https://github.com/FelipeNathansz/FelipeNathansz/blob/main/assets/asteroids.gif?raw=true"
-    alt="Asteroids Game Animation"
-  />
-</p>
+<img
+  width="95%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeNathansz&theme=tokyo-night&hide_border=true&area=true"
+  alt="FelipeNathansz Project Activity"
+/>
 
-<p align="center">
-  <code>01000110 01000101 01001100 01001001 01010000 01000101</code>
-</p>
-
-<br>
-
-<!-- ========================= -->
-<!--       PROJECT GRAPH       -->
-<!-- ========================= -->
-
-<h2 align="center">📊 PROJECT ACTIVITY</h2>
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeNathansz&theme=tokyo-night&hide_border=true"
-    alt="FelipeNathansz Project Activity"
-  />
-</p>
-](https://chatgpt.com/share/6a8ccaa7-49d0-83e9-b8b2-965a02dcb140)a](https://chatgpt.com/share/6a8ccaa7-49d0-83e9-b8b2-965a02dcb140)
+</div>
