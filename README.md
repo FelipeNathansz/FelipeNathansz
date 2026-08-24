@@ -23,11 +23,6 @@
 
 <h2>🚀 ASTEROIDS.EXE</h2>
 
-<img
-  width="750"
-  src="https://raw.githubusercontent.com/FelipeNathansz/FelipeNathansz/main/assets/asteroids.svg"
-  alt="Asteroids Animation"
-/>
 
 <p>
   <code>PLAYER: FELIPENATHANSZ</code>
