@@ -1,4 +1,4 @@
-<!-- ========================= -->
+[[<!-- ========================= -->
 <!--       8-BIT DEV           -->
 <!-- ========================= -->
 
@@ -46,3 +46,4 @@
     alt="FelipeNathansz Project Activity"
   />
 </p>
+](https://chatgpt.com/share/6a8ccaa7-49d0-83e9-b8b2-965a02dcb140)a](https://chatgpt.com/share/6a8ccaa7-49d0-83e9-b8b2-965a02dcb140)
