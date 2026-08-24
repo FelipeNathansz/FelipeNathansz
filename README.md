@@ -1,47 +1,67 @@
-<!-- =============================== -->
-<!--        FELIPENATHANSZ DEV       -->
-<!-- =============================== -->
-
 <div align="center">
 
-<h2>👾 FELIPENATHANSZ.EXE</h2>
+<h1>👾 Felipe Nathans</h1>
+
+<h3>Full Stack Developer • Computer Science</h3>
 
 <p>
-  <b>Full Stack Developer • Computer Science</b>
-</p>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=900&center=true&vCenter=true&width=720&height=45&lines=%3E+SYSTEM+BOOT...;%3E+FELIPENATHANSZ.EXE;%3E+FULL+STACK+DEVELOPER;%3E+COMPUTER+SCIENCE;%3E+READY_"
-  alt="8 Bit Developer"
-/>
-
-<br><br>
-
-<!-- =============================== -->
-<!--           ASTEROIDS             -->
-<!-- =============================== -->
-
-<h2>🚀 ASTEROIDS.EXE</h2>
-
-
-<p>
-  <code>PLAYER: FELIPENATHANSZ</code>
-  &nbsp; • &nbsp;
-  <code>STATUS: CODING</code>
+Desenvolvimento de software, aplicações web, sistemas e projetos acadêmicos em Ciência da Computação.
 </p>
 
 <br>
 
 <!-- =============================== -->
-<!--        PROJECT ACTIVITY         -->
+<!--          8-BIT LOADING          -->
 <!-- =============================== -->
 
-<h2>📊 PROJECT ACTIVITY</h2>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=800&center=true&vCenter=true&width=750&height=60&lines=%3E+INITIALIZING...;%3E+LOADING+DEVELOPER+PROFILE...;%3E+LOADING+PROJECTS...;%3E+FULL+STACK+DEVELOPER;%3E+COMPUTER+SCIENCE;%3E+SYSTEM+READY_"
+  alt="Developer Loading Animation"
+/>
+
+<br><br>
+
+<code>[████████████████████] 100%</code>
+
+<br><br>
+
+<code>SYSTEM STATUS: READY</code>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<h2>💻 PROJECTS</h2>
+
+<p>
+  <code>SOFTWARE</code>
+  &nbsp;•&nbsp;
+  <code>WEB</code>
+  &nbsp;•&nbsp;
+  <code>ALGORITHMS</code>
+  &nbsp;•&nbsp;
+  <code>SYSTEMS</code>
+</p>
+
+<br>
+
+<a href="https://github.com/FelipeNathansz?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="View Projects"
+  />
+</a>
+
+<br><br>
 
 <img
   width="95%"
   src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeNathansz&theme=tokyo-night&hide_border=true&area=true"
-  alt="FelipeNathansz Project Activity"
+  alt="Project Activity"
 />
 
 </div>
